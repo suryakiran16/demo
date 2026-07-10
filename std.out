@@ -1,0 +1,18 @@
+ERROR - pfazip://Creo_start/Creo_start/config.pro, linenum 1 : Invalid value 'no *' for keyword 'GRID_SNAP'.
+ERROR - pfazip://Creo_start/Creo_start/config.pro, linenum 2 : Invalid value 'suppress_continues' for keyword 'JS_ERROR_POLICY'.
+ERROR - pfazip://Creo_start/Creo_start/config.pro, linenum 3 : Invalid value 'no *' for keyword 'GRID_SNAP'.
+ERROR - pfazip://Creo_start/Creo_start/config.pro, linenum 4 : Invalid value 'suppress_continues' for keyword 'JS_ERROR_POLICY'.
+ERROR - pfazip://Creo_start/Creo_start/config.pro, linenum 81: Invalid value 'no *' for keyword 'GRID_SNAP'.
+ERROR - pfazip://Creo_start/Creo_start/config.pro, linenum 104:  Keyword 'WINDOWS_BROWSER_TYPE' is not valid.
+ERROR - pfazip://Creo_start/Creo_start/config.pro, linenum 105: Invalid value 'suppress_continues' for keyword 'JS_ERROR_POLICY'.
+WARNING: Invalid search path file.
+Graphics type 'x_windows' is not supported on this platform; using default.
+ERROR - pfazip://Creo_Start_11/Creo_Start_11/Creo_Start_11/config.pro, linenum 1 : Invalid value 'no *' for keyword 'GRID_SNAP'.
+ERROR - pfazip://Creo_Start_11/Creo_Start_11/Creo_Start_11/config.pro, linenum 2 : Invalid value 'suppress_continues' for keyword 'JS_ERROR_POLICY'.
+ERROR - pfazip://Creo_Start_11/Creo_Start_11/Creo_Start_11/config.pro, linenum 3 : Invalid value 'no *' for keyword 'GRID_SNAP'.
+ERROR - pfazip://Creo_Start_11/Creo_Start_11/Creo_Start_11/config.pro, linenum 4 : Invalid value 'suppress_continues' for keyword 'JS_ERROR_POLICY'.
+ERROR - pfazip://Creo_Start_11/Creo_Start_11/Creo_Start_11/config.pro, linenum 5 : Invalid value 'no *' for keyword 'GRID_SNAP'.
+ERROR - pfazip://Creo_Start_11/Creo_Start_11/Creo_Start_11/config.pro, linenum 6 : Invalid value 'suppress_continues' for keyword 'JS_ERROR_POLICY'.
+ERROR - pfazip://Creo_Start_11/Creo_Start_11/Creo_Start_11/config.pro, linenum 83: Invalid value 'no *' for keyword 'GRID_SNAP'.
+ERROR - pfazip://Creo_Start_11/Creo_Start_11/Creo_Start_11/config.pro, linenum 106:  Keyword 'WINDOWS_BROWSER_TYPE' is not valid.
+ERROR - pfazip://Creo_Start_11/Creo_Start_11/Creo_Start_11/config.pro, linenum 107: Invalid value 'suppress_continues' for keyword 'JS_ERROR_POLICY'.
